@@ -1,0 +1,24 @@
+{
+  "title": "Colorado Stream Reaches",
+  "description": "Colorado stream reaches.",
+  "identifier": "owf-data-co-stream-reaches",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/dwr/stream-reaches/",
+  "issued": "2022-07-31",
+  "keyword": [
+    "line",
+    "stream reaches"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Stream Reaches"
+    }
+  ]
+}

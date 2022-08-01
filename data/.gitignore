@@ -1,0 +1,5 @@
+# Ignore everything because files are big and dynamic.
+# Commit this file and the README file.
+/*
+!.gitignore
+!README.md
