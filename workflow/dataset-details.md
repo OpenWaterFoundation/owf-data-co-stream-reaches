@@ -99,7 +99,7 @@ The following files can be downloaded or used directly.
 | [`co-stream-reaches-district79.geojson`](co-stream-reaches-district79.geojson) | Colorado stream reaches (District 79). |
 | [`co-stream-reaches-district80.geojson`](co-stream-reaches-district80.geojson) | Colorado stream reaches (District 80). |
 
-## Workflow #7
+## Workflow ##
 
 See the [`owf-data-co-stream-reaches`](https://github.com/OpenWaterFoundation/owf-data-co-stream-reaches)
 GitHub repository for information.
