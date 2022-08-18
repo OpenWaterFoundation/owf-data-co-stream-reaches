@@ -16,6 +16,7 @@ AwsS3(S3Command="UploadObjects",Region="us-west-2",Bucket="data.openwaterfoundat
 # Invalidate so that files are available on the CDN as soon as possible.
 # AwsCloudFront(CloudFrontCommand="ListDistributions",Region="aws-global",Comment="*data.openwaterfoundation.org*",OutputTableID="Distributions")
 AwsCloudFront(CloudFrontCommand="InvalidateDistribution",Region="aws-global",Comment="*data.openwaterfoundation.org*",InvalidationPaths="/state/co/dwr/stream-reaches/*")
+# AwsCloudFront(CloudFrontCommand="InvalidateDistribution",Region="aws-global",Comment="*data.openwaterfoundation.org*",InvalidationPaths="/state/co/dwr/stream-reaches/dataset*")
 #
 # Create the dataset catalog with landing page:
 # - also list invalidations to see what is in process
